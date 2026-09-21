@@ -34,11 +34,11 @@ A production-oriented retrieval-augmented generation system for turning enterpri
 
 **What it demonstrates:** RAG architecture, ingestion and retrieval pipelines, vector search, LLM integration, modular Python development and application delivery.
 
-### [Multi-Agent AI Travel Planner](https://github.com/swapnilparate87/Let-s-Trip-AI---A-Multi-Agent-Travel-Planner)
+### [Agentic RAG Chatbot for HR Policy & Employee Support](https://github.com/swapnilparate87/Agentic-_RAG-_Chatbot_for_HR_policy_Employees_support)
 
-A multi-agent system designed to coordinate specialized AI components for travel research and itinerary planning.
+A tutorial-based HR knowledge assistant that retrieves company documents, grades evidence, falls back to web search and rewrites queries when evidence is insufficient.
 
-**What it demonstrates:** agent decomposition, orchestration, tool-enabled workflows, state management and collaborative reasoning.
+**What it demonstrates:** LangGraph orchestration, Groq LLM integration, Hugging Face embeddings, Pinecone vector retrieval, Tavily web search, FastAPI, source citations and SQLite audit logging.
 
 ### [MLOps Capstone Project](https://github.com/swapnilparate87/MLOps-Capstone_Project)
 
