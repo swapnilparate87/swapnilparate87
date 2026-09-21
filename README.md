@@ -72,7 +72,6 @@ The goal is not just to make an LLM respond. The goal is to make the complete sy
 
 - [Vehicle Insurance MLOps Project](https://github.com/swapnilparate87/MLOPS-Project1-Vehicle_Insurance_Domain-) — domain-focused ML pipeline and production workflow.
 - [Bayesian Optimization for Fan/Blower Performance](https://github.com/swapnilparate87/Bayesian-Optimization-for-Efficient-Fan-Blower-Performance-Tuning-) — data-driven optimization for engineering performance tuning.
-- [Multi-Agent System](https://github.com/swapnilparate87/Multi_Agent_System) — experiments with coordinated AI agents and workflow design.
 
 ## Currently building
 
